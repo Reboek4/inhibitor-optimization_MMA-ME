@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "c1": 0.0012,
+        "c2": 0.0006,
+        "filename": "1200uM_CeN_600uM_NaFu_24h.txt"
+    },
+    {
+        "id": 2,
+        "c1": 0.0015,
+        "c2": 0.0005,
+        "filename": "1500uM_CeN_500uM_NaFu_24h.txt"
+    },
+    {
+        "id": 3,
+        "c1": 0.001,
+        "c2": 0.001,
+        "filename": "1000uM_CeN_1000uM_NaFu_24h.txt"
+    },
+    {
+        "id": 4,
+        "c1": 0.0005,
+        "c2": 0.0015,
+        "filename": "500uM_CeN_1500uM_NaFu_24h.txt"
+    },
+    {
+        "id": 5,
+        "c1": 0.0006,
+        "c2": 0.0012,
+        "filename": "600uM_CeN_1200uM_NaFu_24h.txt"
+    },
+    {
+        "id": 6,
+        "c1": 0.0002,
+        "c2": 0.0002,
+        "filename": "200uM_CeN_200uM_NaFu_24h.txt"
+    },
+    {
+        "id": 7,
+        "c1": 0.0005,
+        "c2": 0.0005,
+        "filename": "500uM_CeN_500uM_NaFu_24h.txt"
+    },
+    {
+        "id": 8,
+        "c1": 0.0003,
+        "c2": 0.0006,
+        "filename": "300uM_CeN_600uM_NaFu_24h.txt"
+    },
+    {
+        "id": 9,
+        "c1": 0.0006,
+        "c2": 0.0003,
+        "filename": "600uM_CeN_300uM_NaFu_24h.txt"
+    },
+    {
+        "id": 10,
+        "c1": 0.00075,
+        "c2": 0.00075,
+        "filename": "750uM_CeN_750uM_NaFu_24h.txt"
+    }
+]
